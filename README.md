@@ -1,7 +1,7 @@
 # Tembak-Kuota
 Tools tembak kuota dengan php versi menang22
 
-Username:<input type=text name=user placeholder=Username><br><br>
+<button>Menang22</button>
 
 # Cara Penginstallan
 
