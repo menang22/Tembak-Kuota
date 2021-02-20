@@ -35,5 +35,5 @@ $ php giga.php
 
 © pangeran151: https://github.com/pangeran151
 
-© <a href=bintang73: https://github.com/bintang73>Bintang73</a>
+© <a href=https://github.com/bintang73>Bintang73</a>
 
