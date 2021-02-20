@@ -1,8 +1,6 @@
 # Tembak-Kuota
 Tools tembak kuota dengan php versi menang22
 
-<button>Menang22</button>
-
 # Cara Penginstallan
 
 $ pkg update upgrade
