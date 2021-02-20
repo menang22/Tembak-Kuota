@@ -29,11 +29,11 @@ $ php giga.php
 
 # Copyright:
 
-© saaiitt: https://github.com/saaiitt
+© <a href=https://github.com/saaiitt>Saaiitt</a>
 
-© menang22: https://github.com/menang22
+© <a href=https://github.com/menang22>Menang22</a>
 
-© pangeran151: https://github.com/pangeran151
+© <a href=https://github.com/pangeran151>Pangeran151</a>
 
 © <a href=https://github.com/bintang73>Bintang73</a>
 
